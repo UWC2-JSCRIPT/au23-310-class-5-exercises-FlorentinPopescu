@@ -43,3 +43,11 @@ li.done span {
 .add-item {
   background-color: darkturquoise;
 }
+
+.up {
+  background-color: green;
+}
+
+.down {
+  background-color: red;
+}
